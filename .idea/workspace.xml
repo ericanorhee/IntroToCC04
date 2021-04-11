@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96103c1b-6bf0-4aaa-8f7f-474cbf65bbf1" name="Default Changelist" comment="" />
+    <list default="true" id="96103c1b-6bf0-4aaa-8f7f-474cbf65bbf1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p4_HyunwooRhee_20201131.js" beforeDir="false" afterPath="$PROJECT_DIR$/p4_HyunwooRhee_20201131.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618054667061</updated>
       <workItem from="1618054668287" duration="2782000" />
-      <workItem from="1618064921056" duration="129000" />
+      <workItem from="1618064921056" duration="18201000" />
     </task>
     <servers />
   </component>
@@ -96,14 +98,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="261" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618054851033" />
-    <state x="788" y="417" key="Github.ShareDialog" timestamp="1618065034639">
+    <state x="788" y="417" key="Github.ShareDialog" timestamp="1618065090174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="788" y="417" key="Github.ShareDialog/0.0.1920.1040/3840.0.1280.760@0.0.1920.1040" timestamp="1618065034639" />
+    <state x="788" y="417" key="Github.ShareDialog/0.0.1920.1040/3840.0.1280.760@0.0.1920.1040" timestamp="1618065090174" />
+    <state x="601" y="224" key="Github.UntrackedFilesDialog" timestamp="1618065109985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/3840.0.1280.760@0.0.1920.1040" timestamp="1618065109985" />
     <state x="0" y="171" key="SettingsEditor" timestamp="1618065049519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="171" key="SettingsEditor/0.0.1920.1040/3840.0.1280.760@0.0.1920.1040" timestamp="1618065049519" />
     <state x="0" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618055400349" />
+    <state x="774" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618144899953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618144899953" />
   </component>
 </project>
